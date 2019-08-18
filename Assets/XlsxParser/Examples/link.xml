@@ -1,0 +1,6 @@
+<linker>
+    <assembly fullname="UnityEngine">
+        <type fullname="UnityEngine.Collider" preserve="all"/>
+        <type fullname="UnityEngine.TextMesh" preserve="all"/>
+    </assembly>
+</linker>
